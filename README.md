@@ -2,6 +2,7 @@
 
 ## 개발환경 셋팅
 이슈 1 - Windows 환경에서 Dockerfile 오류 발생 - 수정
+
 이슈 2 - Windows 환경에서 DB Connect 이슈 발생 - Docker --> 로컬환경 셋팅으로 변경하여 처리함 
 
 ## Create Database
